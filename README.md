@@ -67,7 +67,7 @@ This plugin is perfect for:
 ### Quick Install
 1. **Download** the latest release:
 2. **Extract** the ZIP file
-3. **Copy** `TrailerVert.DisplayPlugin.dll` to:
+3. **Copy** `AchievementHUD.dll` to:
    ```
    LaunchBox/Plugins/TrailerVert.DisplayPlugin/
    ```
