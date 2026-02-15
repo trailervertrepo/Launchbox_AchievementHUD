@@ -65,7 +65,7 @@ This plugin is perfect for:
 ## 📥 Installation
 
 ### Quick Install
-1. **Download** the latest release: `AchievementHUD-v5.4-beta.zip`
+1. **Download** the latest release:
 2. **Extract** the ZIP file
 3. **Copy** `TrailerVert.DisplayPlugin.dll` to:
    ```
