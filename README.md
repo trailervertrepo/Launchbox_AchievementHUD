@@ -29,7 +29,9 @@ Display your RetroAchievements on a secondary monitor with instant detection, mu
 
 ## 📸 Screenshots
 
-> *Screenshots coming soon - beta testers, please share yours!*
+> <img width="1920" height="1080" alt="Screenshot 2026-02-15 121425" src="https://github.com/user-attachments/assets/a353d891-e783-4d42-ac2c-f9801e2761e3" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-15 081032" src="https://github.com/user-attachments/assets/c1803b0f-44cf-43a2-8e43-b24b5c497ef7" />
+
 
 ---
 
