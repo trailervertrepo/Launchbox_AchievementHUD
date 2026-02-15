@@ -32,12 +32,6 @@ Display your RetroAchievements on a secondary monitor with instant detection, mu
 > *Screenshots coming soon - beta testers, please share yours!*
 
 ---
-<img width="1920" height="1080" alt="Screenshot 2026-02-15 121425" src="https://github.com/user-attachments/assets/a56f01ff-9409-4e3e-b736-a863f0843a21" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-15 081032" src="https://github.com/user-attachments/assets/73a134f5-187f-4401-875a-155eb4f53065" />
-<img width="1080" height="1920" alt="Screenshot 2026-02-15 080222" src="https://github.com/user-attachments/assets/e8c33578-d7bc-48c1-a049-6fd8df3f9018" />
-<img width="1080" height="1920" alt="Screenshot 2026-02-15 080122" src="https://github.com/user-attachments/assets/fcdc76d1-a87c-4cb3-9fe7-1ebd01fa4256" />
-<img width="682" height="854" alt="Screenshot 2026-02-15 080334" src="https://github.com/user-attachments/assets/cd0b3ee1-c062-438d-b79a-17596318b0ce" />
-<img width="692" height="850" alt="Screenshot 2026-02-15 080628" src="https://github.com/user-attachments/assets/7aaa090a-e31c-4193-9c7e-7524d3337cc5" />
 
 ## 🎯 Target Audience
 
