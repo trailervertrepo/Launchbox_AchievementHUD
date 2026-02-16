@@ -68,11 +68,6 @@ Close and restart LaunchBox completely.
 4. Find: `RetroArch/logs/retroarch.log`
 5. Select the file
 
-**Common Locations:**
-- `C:\RetroArch\logs\retroarch.log`
-- `C:\Program Files\RetroArch\logs\retroarch.log`
-- `%AppData%\RetroArch\logs\retroarch.log`
-
 **If log file doesn't exist:**
 1. Open RetroArch
 2. Settings → Logging → Enable Logging
