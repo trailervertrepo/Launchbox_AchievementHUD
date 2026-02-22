@@ -1,14 +1,6 @@
 # Achievement HUD
 **RetroAchievements Display Plugin for LaunchBox & BigBox**
 
-![Version](https://img.shields.io/badge/version-5.4--beta-blue)
-![LaunchBox](https://img.shields.io/badge/LaunchBox-13.25%2B-green)
-![Status](https://img.shields.io/badge/status-beta-orange)
-
-Display your RetroAchievements on a secondary monitor with instant detection, multi-monitor support, and arcade cabinet integration.
-
----
-
 ## ✨ Features
 
 ### Core Functionality
@@ -325,4 +317,4 @@ This is a **beta release** intended for testing and feedback. While fully functi
 ---
 
 *Last Updated: February 14, 2026*  
-*Version: 5.4-beta*
+*Version: 6.6-beta*
