@@ -1,7 +1,7 @@
 # Achievement HUD
 **RetroAchievements Display Plugin for LaunchBox & BigBox**
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **Instant Achievement Detection** - Detects unlocks in under 100ms via RetroArch log monitoring
@@ -19,7 +19,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > <img width="1920" height="1080" alt="Screenshot 2026-02-15 121425" src="https://github.com/user-attachments/assets/a353d891-e783-4d42-ac2c-f9801e2761e3" />
   <img width="1920" height="1080" alt="Screenshot 2026-02-15 081032" src="https://github.com/user-attachments/assets/c1803b0f-44cf-43a2-8e43-b24b5c497ef7" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Target Audience
+## Target Audience
 
 This plugin is perfect for:
 - **Arcade Cabinet Builders** - Display achievements on a vertical marquee screen
@@ -37,7 +37,7 @@ This plugin is perfect for:
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 ### Minimum Requirements
 - **LaunchBox** version 13.25 or higher
@@ -56,7 +56,7 @@ This plugin is perfect for:
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### Quick Install
 1. **Download** the latest release:
@@ -82,7 +82,7 @@ This plugin is perfect for:
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Display Settings
 - **Target Monitor** - Choose which monitor displays achievements
@@ -111,7 +111,7 @@ This plugin is perfect for:
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ### Automatic Display
 The plugin automatically shows:
@@ -130,7 +130,7 @@ The plugin automatically shows:
 
 ---
 
-## 🐛 Known Issues (Beta)
+## Known Issues (Beta)
 
 ### Current Limitations
 - **Portrait Mode** - No special handling for vertical displays (may require scrolling)
@@ -147,7 +147,7 @@ The plugin automatically shows:
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Display Window Doesn't Show
 1. Check plugin is **enabled** in settings
@@ -174,7 +174,7 @@ The plugin automatically shows:
 
 ---
 
-## 📊 Performance
+## Performance
 
 - **Achievement Detection** - Under 100ms (via log monitoring)
 - **Memory Usage** - ~50-100MB (typical)
@@ -183,7 +183,7 @@ The plugin automatically shows:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is currently a **beta release** for testing. Feedback is greatly appreciated!
 
@@ -202,9 +202,9 @@ This is currently a **beta release** for testing. Feedback is greatly appreciate
 
 ---
 
-## 📝 Changelog
+## Changelog
 
-### Version 5.4-beta (Current)
+### Version 6.6-beta (Current)
 **Initial Beta Release**
 - ✅ Multi-monitor support with configurable target
 - ✅ Instant achievement detection (<100ms)
@@ -219,7 +219,7 @@ This is currently a **beta release** for testing. Feedback is greatly appreciate
 
 ---
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Architecture
 - **Plugin Type**: LaunchBox ISystemMenuItemPlugin + ISystemEventsPlugin
@@ -242,20 +242,20 @@ Settings are stored in JSON format at:
 
 ---
 
-## 📜 License
+## License
 
 > *License information to be added*
 
 ---
 
-## 👤 Author
+## Arthur
 
 **TrailerVert**
 - GitHub: [@trailervertrepo](https://github.com/trailervertrepo)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **LaunchBox/BigBox** - For the excellent plugin API
 - **RetroAchievements** - For the amazing achievement tracking service
@@ -265,7 +265,7 @@ Settings are stored in JSON format at:
 
 ---
 
-## 📞 Support
+## Support
 
 ### For Beta Testers
 - **Issues**: Open a GitHub Issue with detailed information
@@ -281,7 +281,7 @@ Settings are stored in JSON format at:
 
 ---
 
-## 🚀 Roadmap
+## Roadmap
 
 ### Planned Features (Post-Beta)
 - Achievement sorting by rarity/popularity
@@ -300,7 +300,7 @@ Settings are stored in JSON format at:
 
 ---
 
-## ⚠️ Beta Testing Notice
+## Beta Testing Notice
 
 This is a **beta release** intended for testing and feedback. While fully functional, there may be:
 - Minor bugs or edge cases
@@ -312,7 +312,7 @@ This is a **beta release** intended for testing and feedback. While fully functi
 
 ---
 
-**Thank you for testing Achievement HUD!** 🎮🏆
+**Thank you for testing Achievement HUD!**
 
 ---
 
